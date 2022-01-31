@@ -1,0 +1,27 @@
+[
+    {
+        "from": "Arne",
+        "to": "Berit",
+        "amount": 25
+    },
+    {
+        "from": "Ceasar",
+        "to": "Donny",
+        "amount": 15
+    },
+    {
+        "from": "Ferrit",
+        "to": "Gerhard",
+        "amount": 13
+    },
+    {
+        "from": "Sven",
+        "to": "Ture",
+        "amount": 5
+    },
+    {
+        "from": "Wendy",
+        "to": "Beck",
+        "amount": 2
+    }
+]
